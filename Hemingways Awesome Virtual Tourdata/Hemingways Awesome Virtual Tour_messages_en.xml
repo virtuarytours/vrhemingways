@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Hemingways Virtual Tour]]></data>
+
+
+  <data name="en_panogroup44_title"><![CDATA[Frontside]]></data>
+
+  <data name="en_pano26_title"><![CDATA[0712]]></data>
+  <data name="en_pano25_title"><![CDATA[0699]]></data>
+  <data name="en_spotpoint113_tooltip"><![CDATA[Patio]]></data>
+  <data name="en_pano27_title"><![CDATA[0719]]></data>
+
+  <data name="en_panogroup46_title"><![CDATA[Belly of Hemingway's]]></data>
+
+  <data name="en_pano42_title"><![CDATA[689]]></data>
+  <data name="en_pano41_title"><![CDATA[682]]></data>
+  <data name="en_pano38_title"><![CDATA[661]]></data>
+  <data name="en_spotpoint417_tooltip"><![CDATA[Patio]]></data>
+  <data name="en_pano39_title"><![CDATA[671]]></data>
+  <data name="en_spotpoint201_tooltip"><![CDATA[Patio]]></data>
+  <data name="en_pano28_title"><![CDATA[0731]]></data>
+  <data name="en_pano29_title"><![CDATA[0734]]></data>
+  <data name="en_spotpoint202_tooltip"><![CDATA[Patio]]></data>
+
+  <data name="en_panogroup50_title"><![CDATA[Outside]]></data>
+
+  <data name="en_pano32_title"><![CDATA[0755]]></data>
+  <data name="en_spotpoint204_tooltip"><![CDATA[Enter Hemingway's!]]></data>
+  <data name="en_spotpoint205_tooltip"><![CDATA[Scenic Alley Patio Side]]></data>
+  <data name="en_spotpoint206_tooltip"><![CDATA[Sidewalk Side Patio]]></data>
+  <data name="en_pano33_title"><![CDATA[0761]]></data>
+  <data name="en_spotpoint207_tooltip"><![CDATA[Center Patio]]></data>
+  <data name="en_spotpoint209_tooltip"><![CDATA[Sidewalk Dining!]]></data>
+  <data name="en_pano31_title"><![CDATA[0742]]></data>
+  <data name="en_spotpoint208_tooltip"><![CDATA[Center Patio]]></data>
+  <data name="en_pano34_title"><![CDATA[0767]]></data>
+  <data name="en_spotpoint210_tooltip"><![CDATA[Patio]]></data>
+  <data name="en_pano30_title"><![CDATA[0735]]></data>
+  <data name="en_spotpoint263_tooltip"><![CDATA[Welcome!]]></data>
+  <data name="en_spotpoint270_tooltip"><![CDATA[Center Patio]]></data>
+  <data name="en_pano35_title"><![CDATA[0774]]></data>
+  <data name="en_spotpoint264_tooltip"><![CDATA[Welcome to Hemingway's on The Square!]]></data>
+
+
+	<data name="en_spotmap491_tooltip"><![CDATA[0719]]></data>
+
+
+
+
+  <data name="en_logowebsiteurl"><![CDATA[]]></data>
+  <data name="en_logo1websiteurl"><![CDATA[https://www.hemingwaysmarietta.com/Pages/Menu.aspx?DeptID=0]]></data>
+  <data name="en_logo1tooltipText"><![CDATA[Check Out The Menu!]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
